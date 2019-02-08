@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 v2
 v3
+=======
+v1
+>>>>>>> parent of 8d31af2... another mod
